@@ -1,4 +1,4 @@
-package aps.produdoro.credencial.domain;
+package aps.produdoro.credentials.domain;
 
 import org.springframework.data.mongodb.core.mapping.Document;
 import org.springframework.data.mongodb.core.mapping.FieldType;
