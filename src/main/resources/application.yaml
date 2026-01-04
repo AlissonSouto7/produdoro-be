@@ -1,3 +1,8 @@
 spring:
   application:
     name: produdoro
+  data:
+    mongodb:
+      auto-index-creation: true
+  mongodb:
+    uri: mongodb+srv://alissonprogp1_db_user:uqq736cBj7nLWQP5@clusterprodudoro.mqtcqdb.mongodb.net/produdoro?retryWrites=true&w=majority&appName=ClusterProdudoro
