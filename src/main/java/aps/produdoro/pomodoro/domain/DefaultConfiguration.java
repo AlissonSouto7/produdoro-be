@@ -26,6 +26,5 @@ public class DefaultConfiguration {
     private Integer focusTimeMinutes;
     private Integer shortBreakTimeMinutes;
     private Integer longBreakTimeMinutes;
-    private Integer roundsBeforeLongBreak;
-    
+    private Integer roundsBeforeLongBreak;   
 }
